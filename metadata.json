@@ -1,0 +1,5 @@
+{
+  "name": "AutoGrade AI",
+  "description": "An AI-powered automated grading system that scans handwritten answer sheets and grades them against a teacher-defined key.",
+  "requestFramePermissions": []
+}
